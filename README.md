@@ -1,0 +1,2 @@
+# Logdemo
+noway
