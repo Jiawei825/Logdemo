@@ -1,0 +1,44 @@
+12:55:33 I initDevice 8.4
+12:55:33 D initDevice MANUFACTURER:Xiaomi DEVICE:houji MODEL:23127PN0CC BRAND:Xiaomi BOARD:houji HARDWARE:qcom SDK_INT:35
+12:55:33 E CameraId: 0 CameraRawSizes: [4096x3072]
+12:55:33 E CameraId: 1 CameraRawSizes: [3264x2448, 3264x1836]
+12:55:33 E CameraId: 2 CameraRawSizes: [4096x3072]
+12:55:33 E CameraId: 3 CameraRawSizes: [4080x3072, 4080x2296]
+12:55:33 E CameraId: 4 CameraRawSizes: [4080x3072, 4080x2296]
+12:55:33 E CameraId: 5 CameraRawSizes: [4096x3072]
+12:55:33 E CameraId: 8 CameraRawSizes: [4096x3072]
+12:55:33 E GetFilteredCameraIDs 2,3,4,1,0
+12:55:33 I Back  Main Lens Id 2
+12:55:33 I Front Main Lens Id 1
+12:55:33 I AGC initMenuValue
+12:55:33 I AGC initInfoPage
+12:55:33 I Device Interface CameraID:4 9 => redfin => flame
+12:55:33 W experimentalKeys 0
+12:55:33 I getZslFrameCount 7
+12:55:33 I getZslFrameCount 9
+12:55:33 I getZslFrameCount 12
+12:55:33 I getZslFrameCount 20
+12:55:33 D getPortraitZoomValue 1.0 1.5
+12:55:33 I StreamConfigurationMap: 9; SDK: 35
+17:43:39 I initDevice 8.4
+17:43:39 D initDevice MANUFACTURER:Xiaomi DEVICE:houji MODEL:23127PN0CC BRAND:Xiaomi BOARD:houji HARDWARE:qcom SDK_INT:35
+17:43:39 E CameraId: 0 CameraRawSizes: [4096x3072]
+17:43:39 E CameraId: 1 CameraRawSizes: [3264x2448, 3264x1836]
+17:43:39 E CameraId: 2 CameraRawSizes: [4096x3072]
+17:43:39 E CameraId: 3 CameraRawSizes: [4080x3072, 4080x2296]
+17:43:39 E CameraId: 4 CameraRawSizes: [4080x3072, 4080x2296]
+17:43:39 E CameraId: 5 CameraRawSizes: [4096x3072]
+17:43:39 E CameraId: 8 CameraRawSizes: [4096x3072]
+17:43:39 E GetFilteredCameraIDs 2,3,4,1,0
+17:43:39 I Back  Main Lens Id 2
+17:43:39 I Front Main Lens Id 1
+17:43:39 I AGC initMenuValue
+17:43:39 I AGC initInfoPage
+17:43:39 I Device Interface CameraID:4 9 => redfin => flame
+17:43:39 W experimentalKeys 0
+17:43:39 I getZslFrameCount 7
+17:43:39 I getZslFrameCount 9
+17:43:39 I getZslFrameCount 12
+17:43:39 I getZslFrameCount 20
+17:43:39 D getPortraitZoomValue 1.0 1.5
+17:43:39 I StreamConfigurationMap: 9; SDK: 35
